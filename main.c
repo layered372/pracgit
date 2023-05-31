@@ -1,4 +1,10 @@
-file name is main.c
+#include <stdio.h>
 
-2-th commit
+int main(void)
+{
+    printf("hello\n");
+}
+
+// file name is main.c
+// 2-th commit
 
